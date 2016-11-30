@@ -1,0 +1,2 @@
+ssid="BCSWZS"
+password=""
